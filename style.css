@@ -1,0 +1,68 @@
+body {background-color:white}
+.container{display: inline-block;
+position: relative;
+width: 100vh;
+height: 800px;
+}
+
+h1{text-align: center;
+text-transform: capitalize;}
+
+.few-text{padding-left: 40px;
+line-height: 40px;
+font-size: 22px;}
+
+.gap{text-decoration:none;
+ border-top: 0;
+ border-left: 0;
+ border-right: 0;bo
+ }
+
+input{width: 100%;}
+
+.forget{line-height: 0;
+font-size: 16px;
+float: right;}
+
+.submit{margin-top: 50px;}
+
+.submit, button{ text-transform: uppercase;
+ cursor: pointer; 
+  background-color: #41b492;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 38px;
+    margin-left: 50px;
+    padding-left: 0px;
+    width: 450px; 
+    text-align: center;
+ color: white;}
+
+.log{word-spacing: 10px;}
+
+.fa-facebook {color: #0b57fa;
+font-size: 40px;}
+
+.fa-twitter {color:rgb(29, 155, 240);
+font-size:40px; 
+}
+
+.fa-google{color: 	#0F9D58;
+font-size: 40px;}
+
+.sign{text-align: center;
+margin-top: 80px;
+font-size: 24px;}
+
+.foo {position: absolute;
+bottom: 50px;
+padding-left: 250px;
+font-size: 24px; 
+}
+
+.last{width: fit-content;
+text-transform: uppercase;
+text-align: center;
+}
+
